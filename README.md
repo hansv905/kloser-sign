@@ -1,4 +1,4 @@
-<h1><img src="http://kloser.co/home/inc/img/global/kloser_logo_white.png" alt="Font Awesome 5" width="100px"></h1>
+<h1><img src="http://kloser.co/home/inc/img/global/kloser_logo.png" alt="Font Awesome 5" width="100px"></h1>
 
 The internet's most popular icon toolkit is being redesigned and built from scratch. On top of this, Font Awesome Pro adds thousands more icons and features like icon font ligatures, an SVG framework, community voting/support, and access to a new CDN.
 
