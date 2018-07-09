@@ -12,7 +12,9 @@ require_once($yii);
 
 echo '111';
 
-
+function a(){
+  return 'ssss';
+}
 
 Yii::createWebApplication($config)->run();
 
