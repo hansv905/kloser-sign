@@ -12,10 +12,16 @@ require_once($yii);
 
 echo '111';
 
+<<<<<<< HEAD
 echo '2222';
 
 
 
+=======
+function a(){
+  return 'ssss';
+}
+>>>>>>> 90f0ea4833428d8de84264d084fc837e71640a25
 
 Yii::createWebApplication($config)->run();
 
